@@ -30,4 +30,8 @@ Then next step would be to apply imitation learning and to achieve that i would 
 
 ### GUI
     Finally the game can be played via the GUI against DQN or Minimax
-    
+
+
+    <img src="image1.png"
+         alt="Markdown connect4 icon"
+         style="float: left; margin-right: 10px;" />
